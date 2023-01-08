@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:cornsilk ;
+
+}
+h1{
+    color:blueviolet;}
+
+
+p1{
+   background-color: pink ;
+   
+}
+p2{
+    background-color:silver;
+    
+}
+p3{
+    background-color:aquamarine;
+    
+}
+p4{
+    background-color: lightgreen;
+    
+}
+p5{
+    background-color: peachpuff;
+    
+}
+p6{
+    background-color: orange;
+    
+}
+p7{
+    background-color:palegoldenrod;
+   
+}
+p8{
+    background-color:darkseagreen;
+}
+* 1{ column-span: 16;
+
+}
